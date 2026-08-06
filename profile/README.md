@@ -65,20 +65,40 @@ We're always looking for operators who can build, break, and ship.
 
 | Operator | Role | Territory |
 |----------|------|-----------|
-| **Mr Black** | Founder & Lead Architect | Gaming × Code |
-| *Recruiting...* | *You?* | *Your stack* |
+| **Mirza Mohammad Abbas** | Founder & Lead Architect | Coding × Gaming |
+| **Dhruv Tandon** | Core Operator | Coding × Gaming |
+| **Sanshwit Kumar** | Core Operator | Coding × Gaming |
 
 ---
 
-## 📡 Comms
+## 📡 Communications
 
-<p align="left">
-  <a href="https://github.com/TheBlackProtocol"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github"></a>
-  <!-- Add Discord, Twitter, etc. when ready -->
+<p align="center">
+  <a href="https://github.com/TheBlackProtocol">
+    <img src="https://img.shields.io/badge/GitHub-The%20Black%20Protocol-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <!-- Enable these when available -->
+
+  <!--
+  <a href="https://discord.gg/yourinvite">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+  <a href="https://theblackprotocol.dev">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
+  <a href="mailto:contact@theblackprotocol.dev">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  -->
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheBlackProtocol&color=000000&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=TheBlackProtocol&style=for-the-badge&color=000000" />
 </p>
 
-<p align="center"><em>Enter the protocol.</em></p>
+<p align="center">
+  <strong><i>Enter the Protocol.</i></strong>
+</p>
