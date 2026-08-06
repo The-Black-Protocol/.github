@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheBlackProtocol/.github/main/assets/banner.png" alt="The Black Protocol" width="100%">
+  <img src="./assets/banner.png" width="100%">
 </p>
 
 <h1 align="center">THE BLACK PROTOCOL</h1>
