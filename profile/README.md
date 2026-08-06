@@ -74,7 +74,7 @@ We're always looking for operators who can build, break, and ship.
 ## 📡 Communications
 
 <p align="center">
-  <a href="https://github.com/TheBlackProtocol">
+  <a href="https://github.com/The-Black-Protocol">
     <img src="https://img.shields.io/badge/GitHub-The%20Black%20Protocol-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
